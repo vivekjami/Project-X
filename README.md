@@ -23,6 +23,7 @@ Welcome to Project X, the next-generation decentralized crowdfunding platform po
 ### Prerequisites
 
 - Ensure you have a compatible Ethereum wallet (e.g., MetaMask) installed.
+- Example: This is my wallet address on LightLink Testnet: 0xaA83DB0fCD5b96427050AFB086dB99057e5c99b4 
 - Connect your wallet to the Project X platform.
 - Acquire Ether (ETH) to participate in crowdfunding campaigns.
 
