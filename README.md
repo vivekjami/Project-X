@@ -26,11 +26,15 @@ Welcome to Project X, the next-generation decentralized crowdfunding platform po
 - Connect your wallet to the Project X platform.
 - Acquire Ether (ETH) to participate in crowdfunding campaigns.
 
+#### This UML is for general idea
+![UML Image](./screenshots/projectx.png)
+
+
 ### Installation
 
 1. Clone the Project X repository:
 
    ```bash
    git clone https://github.com/vivekjami/Project-X.git
-   
+
    *Note: the project is not complete this is the adstract model
